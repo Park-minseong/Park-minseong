@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Park-minseong/Park-minseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## *Developer*,
 ![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
@@ -27,7 +10,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
 
 
-**비트캠프 Java기반 SW 웹개발자 양성과정 ** <I>2022.05.09 ~ 2022.09.30</I> 
+* **비트캠프 Java기반 SW 웹개발자 양성과정 ** <I>2022.05.09 ~ 2022.09.30</I> 
 
 
 
