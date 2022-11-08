@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
 
 
-* **비트캠프 Java기반 SW 웹개발자 양성과정 ** <I>2022.05.09 ~ 2022.09.30</I> 
+**비트캠프 Java기반 SW 웹개발자 양성과정 ** <I>2022.05.09 ~ 2022.09.30</I> 
 
 
 
