@@ -5,10 +5,5 @@
 
 
 
-✨  <I>[RESUME](https://#)</I>    
-🌱  <I>[PORTFOLIO](https://#)</I>  
-
-
-
 
 
